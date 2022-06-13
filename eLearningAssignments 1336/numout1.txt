@@ -1,0 +1,3 @@
+average is : 175
+min is : -700
+max is : 800

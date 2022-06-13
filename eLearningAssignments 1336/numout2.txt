@@ -1,0 +1,3 @@
+average is : 116.2
+min is : 5
+max is : 634
