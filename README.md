@@ -1,5 +1,5 @@
 # UTD-Semester-2
-A compilation of programs/proofs/logic from my second semester of my freshman year at UTD
+A compilation of programs from my second semester of my freshman year at UTD
 
 <br/>
 
